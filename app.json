@@ -9,6 +9,6 @@
             "description": "V2Ray PORT",
             "value": "33333"
         }
-    }
+    },
 	"stack": "container"
 }
