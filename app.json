@@ -4,6 +4,11 @@
         "UUID": {
             "description": "V2Ray UUID",
             "value": "acfb5053-6ce0-43f8-9cfe-4347b21704d2"
+        },
+		"PORT": {
+            "description": "V2Ray PORT",
+            "value": "33333"
         }
     }
 }
+https://dashboard.heroku.com/new?template=https://github.com/adowls/yar2v-heroku
